@@ -1,0 +1,12 @@
+2024-03-03 20:08:39.135891: Consulta de cliente Carla Martinez con CUIT 27299612398.
+2024-03-03 20:10:45.416646: Consulta de cliente Carla Martinez con CUIT 27299612398.
+2024-03-03 20:10:59.095518: Cliente Carla Martinez con CUIT 27299612398 modificado a Carmen Martinez con CUIT 27299612398
+2024-03-03 20:11:13.044889: Haz agregado un nuevo cliente llamado/a Carmen Martinez con CUIT: 27299612398.
+2024-03-03 20:11:23.455760: Cliente Carmen Martinez con CUIT 27299612398 eliminado correctamente.
+2024-03-03 20:12:37.056472: Consulta de cliente Julieta  Diaz con CUIT 27454584630.
+2024-03-06 11:30:20.899134: Consulta de cliente Carmen Martinez con CUIT 27299612398.
+2024-03-06 11:33:39.690860: Consulta de cliente Carmen Martinez con CUIT 27299612398.
+2024-03-06 11:36:23.377743: Haz agregado un nuevo cliente llamado/a Carol Martinez con CUIT: 27299612398.
+2024-03-06 11:37:24.217536: Cliente Carol Martinez con CUIT 27299612398 eliminado correctamente.
+2024-03-06 16:33:52.990215: Haz agregado un nuevo cliente llamado/a Armando Casilda con CUIT: 200177193.
+2024-03-06 16:34:01.823686: Cliente Armando Casilda con CUIT 200177193 eliminado correctamente.

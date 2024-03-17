@@ -1,0 +1,12 @@
+2024-03-03 20:08:34.525190: Se ha dado un error, Por favor, complete todos los campos.
+2024-03-03 20:09:14.038851: Se ha dado un error, Por favor, seleccione un cliente para consultar.
+2024-03-03 20:09:18.780722: Se ha dado un error, Por favor, complete todos los campos para modificar un cliente.
+2024-03-03 20:09:29.382832: Se ha dado un error, Por favor, seleccione un cliente para eliminar.
+2024-03-03 20:09:38.676143: Se ha dado un error, Por favor, complete todos los campos para modificar un cliente.
+2024-03-03 20:09:42.684316: Se ha dado un error, Por favor, complete todos los campos.
+2024-03-03 20:10:12.295499: Se ha dado un error, Por favor, seleccione un cliente para modificar.
+2024-03-06 11:29:31.736281: Se ha dado un error, Por favor, complete todos los campos.
+2024-03-06 11:30:29.265590: Se ha dado un error, Por favor, seleccione un cliente para consultar.
+2024-03-06 11:30:59.238627: Se ha dado un error, Por favor, complete todos los campos para modificar un cliente.
+2024-03-06 11:31:11.409137: Se ha dado un error, Por favor, seleccione un cliente para modificar.
+2024-03-06 11:32:02.362369: Se ha dado un error, Por favor, seleccione un cliente para eliminar.
