@@ -1,0 +1,9 @@
+2024-04-24 10:50:10.303598: Consulta de cliente Tobias Torres con CUIT 23508203966.
+2024-04-24 10:50:22.747609: Cliente Tobias Torres con CUIT 23508203966 modificado a Tomas Torres con CUIT 23508203966
+2024-04-24 10:50:32.777947: Haz agregado un nuevo cliente llamado/a Tomas Torres con CUIT: 23508203966.
+2024-04-24 10:50:37.478806: Cliente Tomas Torres con CUIT 23508203966 eliminado correctamente.
+2024-04-24 11:01:46.029494: Consulta de cliente Tomas Torres con CUIT 23508203966.
+2024-05-17 13:01:20.951849: Consulta de cliente Tomas Torres con CUIT 23508203966.
+2024-05-17 13:01:35.573675: Haz agregado un nuevo cliente llamado/a Jorge Torres con CUIT: 23508203966.
+2024-05-17 13:01:49.388116: Cliente Jorge Torres con CUIT 23508203966 modificado a Lucas Torres con CUIT 23508203966
+2024-05-17 13:01:58.176906: Cliente Lucas Torres con CUIT 23508203966 eliminado correctamente.

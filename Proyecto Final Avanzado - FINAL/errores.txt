@@ -1,0 +1,5 @@
+2024-04-24 10:46:07.892575: Error - Faltan los siguientes campos obligatorios: Nombre, Apellido, Rubro, CUIT, Clave Fiscal
+2024-04-24 10:47:12.680181: Error - El CUIT debe contener exactamente 11 dígitos.
+2024-04-24 10:48:31.799443: Error - Faltan los siguientes campos obligatorios: Apellido
+2024-04-24 11:01:55.605955: Error - Intento de agregar un cliente duplicado: Tomas Torres
+2024-05-17 13:01:24.594122: Error - Intento de agregar un cliente ya registrado: Tomas Torres
